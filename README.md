@@ -10,9 +10,9 @@ The raw data and the labels could be found below:
 
 We acknowledge [LabelMe](https://github.com/wkentaro/labelme) for providing the labeling tool.
 
-<p align="left"><img width="100%" src="demo/img.png" /></p>
+<p align="left"><img width="50%" src="demo/img.png" /></p>
 
 
 
-<p align="left"><img width="100%" src="demo/label_viz.png" /></p>
+<p align="left"><img width="50%" src="demo/label_viz.png" /></p>
 
