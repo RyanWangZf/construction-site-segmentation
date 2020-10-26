@@ -1,6 +1,12 @@
 # construction-site-segmentation
 
-An open dataset for semantic segmentation on construction site, released by the paper: "Deep Semantic Segmentation for Visual Understanding on Construction Sites".   
+An open dataset for semantic segmentation on construction sites, released by the paper: *Deep Semantic Segmentation for Visual Understanding on Construction Sites*.   
+
+
+
+All images were collected from online. For research purpose only. No commercial use.
+
+
 
 The raw data and the labels could be found below:
 
