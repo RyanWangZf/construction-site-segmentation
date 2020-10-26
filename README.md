@@ -10,6 +10,9 @@ The raw data and the labels could be found below:
 
 We acknowledge [LabelMe](https://github.com/wkentaro/labelme) for providing the labeling tool.
 
-![img](D:\RGBD_project\OSLSM-pytorch\dataset\construction\construction-site-segmentation\demo\img.png)
+<p align="left"><img width="100%" src="demo/img.png" /></p>
 
-![label_viz](D:\RGBD_project\OSLSM-pytorch\dataset\construction\construction-site-segmentation\demo\label_viz.png)
+
+
+<p align="left"><img width="100%" src="demo/label_viz.png" /></p>
+
