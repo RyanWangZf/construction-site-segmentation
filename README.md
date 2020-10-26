@@ -1,5 +1,7 @@
 # construction-site-segmentation
 
+An open dataset for semantic segmentation on construction site, released by the paper: "Deep Semantic Segmentation for Visual Understanding on Construction Sites".   
+
 The raw data and the labels could be found below:
 
 | Source                                                       | Code |
