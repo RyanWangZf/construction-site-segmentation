@@ -12,6 +12,7 @@ The raw data and the labels could be found below:
 
 | Source                                                       | Code |
 | ------------------------------------------------------------ | ---- |
+| [Google Cloud](https://drive.google.com/file/d/1TkrgIl-ZpeY4Sc3nn4_gmgEc76uwUslO/view?usp=sharing) | ---- |
 | [Baidu Cloud](https://pan.baidu.com/s/15zkzYspUaimroePCJfy5-A) | 0ito |
 
 
